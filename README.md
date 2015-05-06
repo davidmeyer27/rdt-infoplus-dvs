@@ -7,7 +7,7 @@ This is a Python daemon for receiving and parsing InfoPlus DVS messages. InfoPlu
 
 Dit is een Python daemon voor het ontvangen en verwerken van InfoPlus DVS-berichten. InfoPlus DVS is een dienst van [NS](http://www.ns.nl/) met berichten voor actuele vertrektijden. De borden met actuele vertrektijden op de stations gebruiken dezelfde brongegevens die met deze applicatie verwerkt kunnen worden.
 
-Deze applicatie wordt sinds december 2013 stabiel gebruikt door de app en website van [Rijden de Treinen](http://www.bussenentreinenforum.nl/) (zie voor een implementatie op basis van deze daemon de [actuele vertrektijden](http://vertrektijden.bussenentreinenforum.nl/)).
+Deze applicatie wordt sinds december 2013 stabiel gebruikt door de app en website van [Bussen en de Treinen](http://www.bussenentreinenforum.nl/) (zie voor een implementatie op basis van deze daemon de [actuele vertrektijden](http://vertrektijden.bussenentreinenforum.nl/)).
 
 InfoPlus DVS
 ------------
